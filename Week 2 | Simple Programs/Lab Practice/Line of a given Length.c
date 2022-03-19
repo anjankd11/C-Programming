@@ -1,3 +1,5 @@
+/* Write a program that reads a value from the user and draws a line built of + and − symbols. The number of the − characters should be equal to the entered value. */ 
+
 #include <stdio.h>
 
 int main(void){
